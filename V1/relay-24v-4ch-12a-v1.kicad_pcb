@@ -11625,7 +11625,7 @@
 			)
 		)
 	)
-	(gr_text "RELAY-24V-4CH-12A-V1"
+	(gr_text "RELAY-24V-4CH-12A-V1.1"
 		(at 137 64.25 0)
 		(layer "F.SilkS")
 		(uuid "dc160336-46bd-4d4f-87e4-be13a8effe60")
