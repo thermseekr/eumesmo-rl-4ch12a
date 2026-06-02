@@ -10,9 +10,9 @@ Board uses Omron 16A relays and is limited to 12A/channel per copper trace capac
 
 VERSION HISTORY
 
-RELAY-24V-4CH-12A V1.0 - 2025/12/19 - Initial release.
-
 RELAY-24V-4CH-12A V1.1 - 2026/06/02 - Replaced the input terminal blocks for a 3.5mm pitch version.
+
+RELAY-24V-4CH-12A V1.0 - 2025/12/19 - Initial release.
 
 ## LICENSE
 
