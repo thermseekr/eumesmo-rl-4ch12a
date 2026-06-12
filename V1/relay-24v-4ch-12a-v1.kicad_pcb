@@ -136,8 +136,8 @@
 			(uuid "81b870b2-bcca-417f-af2a-85108e01c7f0")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -1019,8 +1019,8 @@
 			(uuid "64ba13e0-2d1d-451a-b4e1-d79dcae5b39f")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -1137,8 +1137,8 @@
 			(uuid "99249265-27c6-4ecb-b559-1f74994cb808")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -1443,8 +1443,8 @@
 			(uuid "9c147f51-a5cf-4d9c-b712-2f57b0bbc5f3")
 			(effects
 				(font
-					(size 0.4 0.4)
-					(thickness 0.06)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -1493,8 +1493,8 @@
 			(uuid "eb4306c9-90d8-4916-ba09-1629ed26e0e6")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -1864,8 +1864,8 @@
 			(uuid "9b6c4941-6fe6-4d9d-894c-08f052eb81ac")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -1914,8 +1914,8 @@
 			(uuid "d1fa42f4-17f7-498c-829e-2fbcbf6ebac5")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -2220,8 +2220,8 @@
 			(uuid "ea2f8d13-a29b-4e31-97d2-c0ccbecc5ffa")
 			(effects
 				(font
-					(size 0.4 0.4)
-					(thickness 0.06)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -2270,8 +2270,8 @@
 			(uuid "6d069d6b-1aec-4b3c-8433-be46d9c04d6d")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -2715,8 +2715,8 @@
 			(uuid "f672e626-228a-42ce-93ef-23107b1d36e6")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -2780,13 +2780,13 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at 2.075 0.25 0)
+			(at 2.075 0 0)
 			(layer "F.SilkS")
 			(uuid "054423b0-f1a5-4794-a48b-2a6ed61992ca")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -3047,8 +3047,8 @@
 			(uuid "d3fd420d-05fb-474d-aed2-84b97ae9f7b0")
 			(effects
 				(font
-					(size 0.4 0.4)
-					(thickness 0.06)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -3095,8 +3095,8 @@
 			(uuid "26f05580-8dd7-46fc-a370-97d721d20752")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -3466,8 +3466,8 @@
 			(uuid "33e53407-7794-4b4f-bf6f-b9929d0a7b59")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -3516,8 +3516,8 @@
 			(uuid "3ee185c7-ab5b-4b7c-b98d-026a30f6ff7f")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -3855,8 +3855,8 @@
 			(uuid "206b338a-3927-4518-8381-f7b737855adf")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -3912,7 +3912,7 @@
 				)
 			)
 		)
-		(property "Value" "INPUTS"
+		(property "Value" "250-204"
 			(at -0.75 8.5 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4189,8 +4189,8 @@
 			(uuid "239aeb4a-4e7d-4273-b2cb-5ed4c9f45dae")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -4258,13 +4258,13 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
-			(at 2.075 0.25 0)
+			(at 2.075 0 0)
 			(layer "F.SilkS")
 			(uuid "796c6de1-5c2a-41b5-8608-ef7e4acaf988")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -4525,8 +4525,8 @@
 			(uuid "0205b06e-0ab3-44f4-b64d-0592f54e2b79")
 			(effects
 				(font
-					(size 0.4 0.4)
-					(thickness 0.06)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -4573,8 +4573,8 @@
 			(uuid "9589d2b4-5300-4aa1-9a22-ad2586107212")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -4944,8 +4944,8 @@
 			(uuid "290b6ca3-7961-4871-b0e7-94abfe80947d")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -4994,8 +4994,8 @@
 			(uuid "66deed9a-7621-4af2-9d6b-8f8ee2ecd540")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -5439,8 +5439,8 @@
 			(uuid "039605a2-42ad-4ce4-bafb-d3aa33ed7890")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -5509,8 +5509,8 @@
 			(uuid "5b116bba-f283-454b-872a-d95667061a14")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -5848,8 +5848,8 @@
 			(uuid "c723a374-57e4-4e72-b429-393f71e4c30e")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -5898,8 +5898,8 @@
 			(uuid "64f1646f-71c7-4d7d-93cd-cb5707ca911a")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -6237,8 +6237,8 @@
 			(uuid "fafa0a9f-4455-4649-86a3-65e105bee0f3")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -6286,8 +6286,8 @@
 			(uuid "caa238ac-3bb4-422a-8e2d-7efe26625959")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -7169,8 +7169,8 @@
 			(uuid "a92ea9d0-8f1a-4886-90c9-65d4cbb0ab9c")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -7287,8 +7287,8 @@
 			(uuid "81af021e-0db5-451f-a95d-3cb17bdff83a")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -7732,8 +7732,8 @@
 			(uuid "ae35bf7d-56aa-4fca-846b-b05062c03bbb")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -7797,13 +7797,13 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R2"
-			(at 2.075 0.25 0)
+			(at 2.075 0 0)
 			(layer "F.SilkS")
 			(uuid "175ba389-ea3d-4e45-88ed-4b3cb6cebf41")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -8064,8 +8064,8 @@
 			(uuid "e8d08de4-aa7d-44d8-a759-eaae7123390e")
 			(effects
 				(font
-					(size 0.4 0.4)
-					(thickness 0.06)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -8112,8 +8112,8 @@
 			(uuid "3141931f-91a6-4567-9d81-13bd578b2f5c")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -8418,8 +8418,8 @@
 			(uuid "7e55ac53-2305-435a-bc89-38040f0a2751")
 			(effects
 				(font
-					(size 0.4 0.4)
-					(thickness 0.06)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -8468,8 +8468,8 @@
 			(uuid "56489248-1dd7-4aee-a89f-1e7cb2970a65")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -8839,8 +8839,8 @@
 			(uuid "f4a4279f-383e-43f7-9725-6768afe97f9d")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -8889,8 +8889,8 @@
 			(uuid "5d334ef5-7245-4815-8e19-78362ce1c666")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -9334,8 +9334,8 @@
 			(uuid "8520d837-0cda-44b0-be58-957e55b926a4")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -9404,8 +9404,8 @@
 			(uuid "68272006-b3c3-45f4-b761-e4edb033a439")
 			(effects
 				(font
-					(size 1.5 1.5)
-					(thickness 0.3)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -9770,8 +9770,8 @@
 			(uuid "0fbdbe79-1534-41eb-a5e4-472e07dec4d2")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -10109,8 +10109,8 @@
 			(uuid "2ab12646-e991-4dea-a13e-95cba8e45253")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -10166,7 +10166,7 @@
 				)
 			)
 		)
-		(property "Value" "+24V"
+		(property "Value" "250-202"
 			(at -0.226 8.676 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10445,8 +10445,8 @@
 			(uuid "274eae29-0328-4004-a1c8-a3bd3609961d")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -10492,13 +10492,13 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R4"
-			(at 2.075 0.25 0)
+			(at 2.075 0 0)
 			(layer "F.SilkS")
 			(uuid "9da082ba-a400-4b8e-adc0-f047b6f8b445")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -10759,8 +10759,8 @@
 			(uuid "be880f05-27f4-4cc8-b066-ebd3da5ddb06")
 			(effects
 				(font
-					(size 0.4 0.4)
-					(thickness 0.06)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -10807,8 +10807,8 @@
 			(uuid "93be83a6-2227-49c0-a63a-4aeacb1ffc66")
 			(effects
 				(font
-					(size 1 0.7)
-					(thickness 0.15)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -11113,8 +11113,8 @@
 			(uuid "ff38e63f-99e2-45c6-899a-f58ed7603459")
 			(effects
 				(font
-					(size 0.4 0.4)
-					(thickness 0.06)
+					(size 0.8 0.6)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -11150,6 +11150,17 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(gr_rect
+		(start 126 67.75)
+		(end 128.75 73.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b156deca-3841-460d-a6a3-e8bccc54d0a0")
 	)
 	(gr_line
 		(start 127 124.5)
@@ -11454,6 +11465,18 @@
 		(layer "Edge.Cuts")
 		(uuid "7eaba479-62fd-42f8-a8e7-e4f2ce222067")
 	)
+	(gr_text "V1.1\n2026-06-02"
+		(at 128.5 70.5 90)
+		(layer "F.SilkS")
+		(uuid "c2020b40-9a06-464a-9c27-71e8775c4ffc")
+		(effects
+			(font
+				(size 0.8 0.5)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
 	(gr_text "IN1"
 		(at 152.75 63.75 0)
 		(layer "F.SilkS")
@@ -11625,7 +11648,7 @@
 			)
 		)
 	)
-	(gr_text "RELAY-24V-4CH-12A-V1.1"
+	(gr_text "RELAY-24V-4CH-12A-V1"
 		(at 137 64.25 0)
 		(layer "F.SilkS")
 		(uuid "dc160336-46bd-4d4f-87e4-be13a8effe60")
