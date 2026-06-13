@@ -11648,7 +11648,7 @@
 			)
 		)
 	)
-	(gr_text "eumesmo-rl-4ch12a-v1"
+	(gr_text "eumesmo-rl-4ch12a"
 		(at 137 64.25 0)
 		(layer "F.SilkS")
 		(uuid "dc160336-46bd-4d4f-87e4-be13a8effe60")
