@@ -1,4 +1,4 @@
-# RELAY-24V-4CH-12A
+# eumesmo-rl-4ch12a
 
 Relay board with 4x 24 VDC relays. This board is designed to be used togheter with [ESP-24V-16CH](https://github.com/thermseekr/esp-24v-16ch), but can be driven by any 24V control circuit compatible with NPN inputs.
 
