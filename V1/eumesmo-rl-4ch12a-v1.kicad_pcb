@@ -11151,17 +11151,6 @@
 			)
 		)
 	)
-	(gr_rect
-		(start 126 67.75)
-		(end 128.75 73.25)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill no)
-		(layer "F.SilkS")
-		(uuid "b156deca-3841-460d-a6a3-e8bccc54d0a0")
-	)
 	(gr_line
 		(start 127 124.5)
 		(end 127 129)
@@ -11455,6 +11444,17 @@
 		(uuid "f37fa03f-4b00-4d8e-bc3e-a57f69a2d753")
 	)
 	(gr_rect
+		(start 175.75 101.75)
+		(end 177.25 109.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b156deca-3841-460d-a6a3-e8bccc54d0a0")
+	)
+	(gr_rect
 		(start 125 62.2)
 		(end 178 130)
 		(stroke
@@ -11465,8 +11465,8 @@
 		(layer "Edge.Cuts")
 		(uuid "7eaba479-62fd-42f8-a8e7-e4f2ce222067")
 	)
-	(gr_text "V1.2\n2026-06-13"
-		(at 128.5 70.5 90)
+	(gr_text "V1.2 2026-06-17"
+		(at 176.5 105.5 90)
 		(layer "F.SilkS")
 		(uuid "c2020b40-9a06-464a-9c27-71e8775c4ffc")
 		(effects
@@ -11474,7 +11474,6 @@
 				(size 0.8 0.5)
 				(thickness 0.1)
 			)
-			(justify bottom)
 		)
 	)
 	(gr_text "IN1"
